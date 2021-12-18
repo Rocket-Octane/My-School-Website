@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background: linear-gradient(black, blue);
+}
+p{
+    color:white;
+}
+h1{
+    color:turquoise;
+}
+img{
+    width:375px;
+    height: 150;
+}
