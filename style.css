@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background: linear-gradient(black, blue);
+    background: black;
 }
 p{
     color:white;
@@ -11,4 +11,10 @@ h1{
 img{
     width:375px;
     height: 150;
+}
+.campus_mainDiv .text-muted{
+    color: white;
+}
+#campus_life{
+    color: yellow;
 }
