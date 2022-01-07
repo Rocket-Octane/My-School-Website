@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background: black;
+    background: linear-gradient(#296834, #230583, black);
 }
 p{
     color:white;
@@ -17,4 +17,24 @@ img{
 }
 #campus_life{
     color: yellow;
+}
+.navbar-inverse{
+    position:sticky;
+    top:0;
+    z-index:99999;
+}
+.classes_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.classes_text span{
+    color:orange
+}
+.classes_head i{
+    float: right;
+}
+h2{
+    color: white;
 }
