@@ -38,3 +38,21 @@ img{
 h2{
     color: white;
 }
+#new{
+    margin-bottom: 20px;
+}
+#contacts iframe{
+    width: 100%;
+}
+#contacts{
+    background-color: lightpink;
+}
+#ul1, #ul2 hr{
+    color: black;
+}
+.list-group p{
+    font-size: 18px;
+}
+#contacts h3{
+    color: black;
+}
